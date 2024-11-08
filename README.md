@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Roop Harshit Vankayalapati</h1>
-<h3 align="center">A Masters graduate from Texas A&M University and a soon to be PhD student</h3>
+<h3 align="center">PhD candidate from Texas A&M University and a Master's graduate from A&M</h3>
 
 - 📫 How to reach me **roopharshit@gmail.com**
 
